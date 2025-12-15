@@ -1,4 +1,4 @@
-# 📊 Data Analysis with Python (Pandas)
+# 📊 Data Analysis with Python
 
 ## 🚀 Project Overview
 This project demonstrates practical **data analysis and data manipulation** using Python. It focuses on cleaning, transforming, and analyzing multiple datasets to answer real-world business questions, simulating common Data Analyst tasks.
